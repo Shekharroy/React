@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function App() { // this is stateless functional component which name is APP COMPONENT
   return (
     <div className="App">
       <header className="App-header">
